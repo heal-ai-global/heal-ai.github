@@ -1,0 +1,51 @@
+# Heal AI - BiomedicalAI * Drug Discovery * Clinical Intelligence
+
+"To accelerate the end of cancer through multimodal AI, making precision diagnostics and targeted therapies accessible to every hospital, every researcher, and every patient on earth.
+
+Heal AI is a next-generation biomedical artificial intelligence company headquartered in Mumbai,Maharashtra.
+We sit at intersection of cutting-edge AI/ML research, clinical oncology, genomics, and drug discovery.
+We are building HealCore- a multimodal AI platform that fuses pathology imaging, genomic sequencing, radiology,
+and clinical data to transform how cancer is diagnosed, treated, and ultimately defeated.
+
+This repo contains the core research framework for building AI-driven biomedical models and 
+data intelligence systems.
+
+## Mission:
+Our goal is to advance the future of healthcare by combining artificial intelligence with biomedical science to enable:
+- Early disease detection
+- Oncology research
+- Predictive healthcare systems
+- Biomedical models and algos
+- AI-driven biomedical analytics
+
+ ## Research Areas
+  Current areas of exploration include:
+  
+  ### Biomedical Machine Learning
+  Development of machine learning models for clinical and biomedical datasets.
+
+  ### Medical Imaging AI
+  Deep learning models for analysis of medical imaging data such as MRI, CT scans, and radiology data.
+
+  ### Oncology AI
+  AI systems for Oncology
+
+  ### Predicitive Healthcare
+  AI-based prediction models for health monitoring and disease risk analytics.
+
+  
+## Patners & Collaborators
+ Industry: Novartis, IQVIA
+ Data: TCGA, CPTAC, NLST, IQVIA Real-World Data
+
+ ## Current Research Focus
+ Lung Cancer(NSCLC) - Multimodal classification, biomarker prediction, survival modelling, detection and prevention, etc.
+ Biomarker Discovery - EGFR,KRAS,ALK,PD-L1, TMB from H&E slides
+ Drug Response Prediction - AI-guided patient stratification for targeted therapies.
+ Federated Learning - Privacy-preserving multi-hospital AI training
+
+## Get Involved
+ Research Collaboration: birbanwalemaganesh@gmail.com
+ Hospital Partnerships: same
+ Investment Inquiries: same
+ 
